@@ -1,4 +1,4 @@
-# InputTest
+# KeyHookDemo
 
 Shows how to use minhook to hook GetMessage and listen in on application specific keypresses, and how to use SetWindowsHookEx to listen in on system wide keypresses.
 
